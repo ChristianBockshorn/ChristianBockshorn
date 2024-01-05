@@ -29,7 +29,7 @@ I am a frontend developer and a Mechanical Engineer from Germany
   <a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  /> </a>
 </p>
 
-<h3 align="left">Designtools</h3>
+<h3 align="left">Others</h3>
 <p align="left">   
   <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> </a>
   <a href="https://www.canva.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /></a> 
