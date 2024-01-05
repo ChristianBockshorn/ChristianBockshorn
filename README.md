@@ -30,19 +30,11 @@ I am a frontend developer and a Mechanical Engineer from Germany
 </p>
 
 <h3 align="left">Designtools</h3>
-<p align="left"> 
- <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> </a>
+<p align="left">   
+  <a href="https://www.figma.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /> </a>
   <a href="https://www.canva.com/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /></a> 
-</p>
-
-<h3 align="left">CMS</h3>
-<p align="left"> 
- <a href="https://www.wordpress.com/de/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  /> </a> 
-</p>
-
-<h3 align="left">Other</h3>
-<p align="left"> 
- <a href="https://github.com/" target="blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /> </a> 
+  <a href="https://www.wordpress.com/de/" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  /> </a> 
+  <a href="https://github.com/" target="blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  /> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christianbockshorn&show_icons=true&locale=en&layout=compact" alt="christianbockshorn" /></p>
