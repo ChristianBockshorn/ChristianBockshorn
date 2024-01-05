@@ -1,13 +1,20 @@
-<h1 align="center">Hi 👋, I'm Christian</h1>
-<h3 align="center">A passionate frontend developer from Germany</h3>
+## Hello👋 I'm Christian 👩🏻‍💻
 
-- 🌱 I’m currently learning **Angular**
+I am a frontend developer and a Mechanical Engineer from Germany
 
-- 📫 How to reach me **bockshorn.cb@gmail.com**
+
+<h3 align="left">🌱 I’m currently learning :</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+</div>
+
+###
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/christian-bockshorn/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a>
+<a href="mailto:bockshorn.cb@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  /></a>
 </p>
 
 <h3 align="left">Programming Languages</h3>
