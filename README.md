@@ -1,6 +1,6 @@
 ## Hello👋 I'm Christian 👩🏻‍💻
 
-I am a frontend developer and a Mechanical Engineer from Germany
+I am a frontend developer and mechanical engineer from Germany, and I am aiming to specialize in full-stack development as well.
 
 
 <h3 align="left">🌱 I’m currently learning :</h3>
